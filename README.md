@@ -4,7 +4,7 @@
 
 ## ▶️ How to Run
 
-1. Clone or download this repository and open the `Q2_VertexArray.sln` file in **Visual Studio**.
+1. Download zip file and open the `Q2_VertexArray.sln` file in **Visual Studio**.
 2. Confirm that `lib/`, `include/`, and `bin/` directories are set up in your project settings.
 3. Build and run the project.
 4. The application renders the Stanford Bunny using **OpenGL Vertex Arrays**.
